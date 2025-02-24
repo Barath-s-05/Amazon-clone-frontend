@@ -36,9 +36,9 @@ This project is a front-end clone of the Amazon website, built using **HTML** an
 
 ## 🎨 Screenshots
 
-![Amazon Clone Preview](preview.png)
+![amazon ss](https://github.com/user-attachments/assets/b1223bd9-aa88-4cea-9eb3-b950ccbd20f9)
 
-*(Replace `preview.png` with an actual screenshot of your project)*
+
 
 ## 📌 Future Improvements
 
